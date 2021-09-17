@@ -1,7 +1,7 @@
 # sumsilverdragon-OOP_ManagementSystem_L2_ProjectI
 This is a simple OOP management system, designed for Capstone Project I Level 2 of my Software Engineering bootcamp
 
-#this program is Phase 1 of the Poised Management System Project, that:
+# this program is Phase 1 of the Poised Management System Project, that:
     -creates a Project class and a Person class
     -creates one Project Object
     -creates 3 Person Objects
